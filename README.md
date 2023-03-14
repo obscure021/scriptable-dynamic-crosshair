@@ -3,6 +3,8 @@ Scriptable Dynamic Crosshair For Unity, compatible with unity's new input system
 
 Asset Store Link: [Scriptable Dynamic Crosshair](https://u3d.as/2TKt)
 
+![SDC cover image](https://user-images.githubusercontent.com/98226994/225090808-e8277aae-b0a4-45b9-a295-1df5a4c674cb.png)
+
 After 2-3 weeks, if considerable changes are made the version on the Unity Asset Store will also be updated.
 
 ## Description
