@@ -14,7 +14,7 @@ Using this package, you can easily change the SIZE OR COLOR between two values i
 
 NOTE: The assets used in the sample scene of this project are taken from [3Dtextures.me](https://3dtextures.me/) and [Polyhaven](https://polyhaven.com/).
 
-DEPENDENCIES:
+## Dependencies:
 This sample given in this package uses the Unity input system and cinemachine. But Old Input System can also be used with this package without cinemachine. So overall you can say no dependencies.
 
 
