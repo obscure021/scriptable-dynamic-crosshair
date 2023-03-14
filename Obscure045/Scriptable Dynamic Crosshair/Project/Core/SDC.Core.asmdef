@@ -1,0 +1,16 @@
+{
+    "name": "SDC.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0aebed8b29b4f534aa5be32cd10b6650"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

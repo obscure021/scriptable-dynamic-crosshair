@@ -1,0 +1,17 @@
+{
+    "name": "SDC.Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4d30a9eca024a874786f810c4b49e3f5",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

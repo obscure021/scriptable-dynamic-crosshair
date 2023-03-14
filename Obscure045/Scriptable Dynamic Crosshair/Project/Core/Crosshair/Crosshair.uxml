@@ -1,0 +1,24 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Obscure045/Scriptable%20Dynamic%20Crosshair/Project/Core/Crosshair/BaseStyleSheet.uss?fileID=7433441132597879392&amp;guid=f62a7e6499314f642bc70494a9a9d3a7&amp;type=3#BaseStyleSheet" />
+    <ui:Button text="CROSSHAIR" display-tooltip-when-elided="true" name="Title" class="header" />
+    <ui:VisualElement name="Refrences" class="background">
+        <ui:Button text="REFRENCES" display-tooltip-when-elided="true" name="referenceToggle" class="toggleButton" />
+        <ui:VisualElement name="referencePanel">
+            <uie:ObjectField label="Main Camera" type="UnityEngine.Camera, UnityEngine.CoreModule" binding-path="mainCamera" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="Settings" class="background">
+        <ui:Button text="SETTINGS" display-tooltip-when-elided="true" name="settingsToggle" class="toggleButton" />
+        <ui:VisualElement name="settingsPanel">
+            <uie:IntegerField label="Range" value="42" name="range" binding-path="range" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px;" />
+            <uie:Vector2Field label="Minimum Size" name="minSize" binding-path="minSize" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px;" />
+            <uie:Vector2Field label="Maximum Size" name="maxSize" binding-path="maxSize" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="Debug" class="background">
+        <ui:Button text="DEBUG" display-tooltip-when-elided="true" name="debugToggle" class="toggleButton" />
+        <ui:VisualElement name="debugPanel">
+            <uie:ObjectField label="Targeted Object" name="targettedObject" binding-path="targetedObject" type="UnityEngine.GameObject, UnityEngine.CoreModule" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
