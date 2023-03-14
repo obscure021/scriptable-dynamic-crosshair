@@ -17,4 +17,8 @@ NOTE: The assets used in the sample scene of this project are taken from [3Dtext
 ## Dependencies:
 This sample given in this package uses the Unity input system and cinemachine. But Old Input System can also be used with this package without cinemachine. So overall you can say no dependencies.
 
+## Links:
 
+Asset Store Publisher Profile: https://assetstore.unity.com/publishers/71736
+
+Youtube: https://www.youtube.com/@obscure045
